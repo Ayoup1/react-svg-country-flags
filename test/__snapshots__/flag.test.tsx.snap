@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it renders SVG component without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <svg
+        fill="none"
+        height="15"
+        viewBox="0 0 21 15"
+        width="21"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <mask
+          height="15"
+          id="mask0_3_102"
+          maskUnits="userSpaceOnUse"
+          width="21"
+          x="0"
+          y="0"
+        >
+          <path
+            d="M19 0H2C0.89543 0 0 0.89543 0 2V13C0 14.1046 0.89543 15 2 15H19C20.1046 15 21 14.1046 21 13V2C21 0.89543 20.1046 0 19 0Z"
+            fill="white"
+          />
+        </mask>
+        <g
+          mask="url(#mask0_3_102)"
+        >
+          <path
+            d="M19 0H2C0.89543 0 0 0.89543 0 2V13C0 14.1046 0.89543 15 2 15H19C20.1046 15 21 14.1046 21 13V2C21 0.89543 20.1046 0 19 0Z"
+            fill="#C32427"
+          />
+          <path
+            clip-rule="evenodd"
+            d="M10.5 8.99L9.02999 9.76L9.30999 8.125L8.12199 6.965L9.76499 6.727L10.5 5.239L11.235 6.726L12.878 6.966L11.688 8.124L11.968 9.76"
+            fill="#006331"
+            fill-rule="evenodd"
+          />
+          <path
+            d="M19 0.5H2C1.17157 0.5 0.5 1.17157 0.5 2V13C0.5 13.8284 1.17157 14.5 2 14.5H19C19.8284 14.5 20.5 13.8284 20.5 13V2C20.5 1.17157 19.8284 0.5 19 0.5Z"
+            stroke="black"
+            stroke-opacity="0.1"
+          />
+        </g>
+      </svg>
+    </div>
+  </body>,
+  "container": <div>
+    <svg
+      fill="none"
+      height="15"
+      viewBox="0 0 21 15"
+      width="21"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <mask
+        height="15"
+        id="mask0_3_102"
+        maskUnits="userSpaceOnUse"
+        width="21"
+        x="0"
+        y="0"
+      >
+        <path
+          d="M19 0H2C0.89543 0 0 0.89543 0 2V13C0 14.1046 0.89543 15 2 15H19C20.1046 15 21 14.1046 21 13V2C21 0.89543 20.1046 0 19 0Z"
+          fill="white"
+        />
+      </mask>
+      <g
+        mask="url(#mask0_3_102)"
+      >
+        <path
+          d="M19 0H2C0.89543 0 0 0.89543 0 2V13C0 14.1046 0.89543 15 2 15H19C20.1046 15 21 14.1046 21 13V2C21 0.89543 20.1046 0 19 0Z"
+          fill="#C32427"
+        />
+        <path
+          clip-rule="evenodd"
+          d="M10.5 8.99L9.02999 9.76L9.30999 8.125L8.12199 6.965L9.76499 6.727L10.5 5.239L11.235 6.726L12.878 6.966L11.688 8.124L11.968 9.76"
+          fill="#006331"
+          fill-rule="evenodd"
+        />
+        <path
+          d="M19 0.5H2C1.17157 0.5 0.5 1.17157 0.5 2V13C0.5 13.8284 1.17157 14.5 2 14.5H19C19.8284 14.5 20.5 13.8284 20.5 13V2C20.5 1.17157 19.8284 0.5 19 0.5Z"
+          stroke="black"
+          stroke-opacity="0.1"
+        />
+      </g>
+    </svg>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
